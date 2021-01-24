@@ -151,7 +151,7 @@ GEM
     commontator (6.3.0)
       rails (>= 5.2)
       will_paginate
-    concurrent-ruby (1.1.7)
+    concurrent-ruby (1.1.8)
     connection_pool (2.2.3)
     countries (3.0.0)
       i18n_data (~> 0.8.0)
@@ -297,7 +297,7 @@ GEM
       nokogiri (>= 1.5.9)
     mail (2.7.1)
       mini_mime (>= 0.1.1)
-    mailkick (0.4.2)
+    mailkick (0.4.3)
       activesupport (>= 5)
     marcel (0.3.3)
       mimemagic (~> 0.3.2)
